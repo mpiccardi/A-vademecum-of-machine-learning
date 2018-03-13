@@ -13,4 +13,5 @@ As the next step, we extend all these techniques to **sequential data**, coverin
 
 I sometimes post updates and corrections. Since April-May 2014, all these notes are accompanied by videolectures. The videolectures are streamed from a Mediasite server, requiring the MS Silverlight plug-in. The player allows re-sizing of the video or the slides at your preference. It also remembers your last position on the video, so you can stop watching and resume at any time.
 
-[README](README.md)
+[Introductory notes](SPR_00_Intro_v4.pdf)\
+Introduction to the short course.
