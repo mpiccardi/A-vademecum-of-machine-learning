@@ -33,3 +33,12 @@ Probabilistic classifiers. Measures of a test's accuracy. Classification by Baye
  
 [The hidden Markov model](SPR_05_HiddenMarkovModel_v5.pdf) | [video (2h:31', 14/05/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/58cb976b900343ef839b626df5e3459d1d)\
 Sequential data. The hidden Markov model. A [MATLAB example](SPR_05_MATLAB.zip). 
+
+[Conditional random fields](SPR_07_ConditionalRandomFields_v4.pdf) | [video (2h:06', 21/05/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/5bbe235938fa42cc8654d4c5509c41a81d)\
+Exponential family of distributions. Undirected graphical models. The linear-chain conditional random field and the hidden conditional random field. [MATLAB examples](SPR_07_MATLAB.zip).
+
+[The support vector machine (SVM) and structural SVM](SPR_08_SVM_v3.pdf) | [video (2h:19', 11/06/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/0ae0150e722e40abbcddaa7c34337d8a1d)
+The support vector machine (SVM). Multi-class SVM as a single machine. Structural SVM and latent structural 
+
+[Kalman and particle filters](SPR_06_KalmanAndParticleFilters_v5.pdf) | [video (2h:23', 04/06/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/2e4d7ac8b6c5430e86c79d1aa692aabd1d)\
+Kalman and particle filters.
