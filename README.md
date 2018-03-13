@@ -1,6 +1,4 @@
-A vademecum of machine learning
-\
-with emphasis on sequential models
+A vademecum of machine learning (with emphasis on sequential models)
 
 * * * * *
 
@@ -14,31 +12,14 @@ http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=9OvNWLUAAAAJ&vi
 
 \
 
-These notes present some useful techniques of machine learning, an area in which I have become
-increasingly interested in recent years. We start by covering three
-fundamental distributions (categorical aka discrete, Gaussian and the mixture), showing
-how to estimate their parameters with maximum likelihood and how to use them in inference. 
-We then introduce classification by Bayes' theorem and by probabilistic discriminative models (the logistic regression
-classifier). We also cover maximum-margin classifiers and the support
-vector machine. \
-As the next step, we extend all these techniques to sequential data,
-covering hidden Markov models, conditional random fields and the
-structural support vector machine, using the linear-chain HMM and the
-HCRF as the graphical models of reference. Since video data are
-sequential in nature, the current coverage is well suited to
-applications such as activity recognition and tracking. Although to date
-we do not cover other types of structured outputs such as trees and
-lattices, these notes can still be a good start towards them. For
-tracking, we cover Kalman and particle filters. Lastly, a separate note
-covers dimensionality reduction by linear models (such as PCA and factor
-analysis) and mixtures of linear models. \
+These notes present some useful techniques of machine learning, an area in which I have become increasingly interested in recent years. We start by covering three fundamental distributions (categorical aka discrete, Gaussian and the mixture), showing how to estimate their parameters with maximum likelihood and how to perform inference. We then introduce classification by Bayes' theorem and by probabilistic discriminative models (the logistic regression classifier). We also cover maximum-margin classifiers and the support vector machine. \
+As the next step, we extend all these techniques to sequential data, covering hidden Markov models, conditional random fields and the
+structural support vector machine, using the linear-chain HMM and the HCRF as the graphical models of reference. Since video data are
+sequential in nature, the current coverage is well suited to applications such as activity recognition and tracking. Although to date
+we do not cover other types of structured outputs such as trees and lattices, these notes can still be a good start towards them. For
+tracking, we cover Kalman and particle filters. Lastly, a separate note covers dimensionality reduction by linear models (such as PCA and factor analysis) and mixtures of linear models. \
 \
-I frequently post updates and corrections. Since April-May 2014, these
-notes are accompanied by videolectures. The videolectures are streamed
-from a Mediasite server, requiring the MS Silverlight plug-in. The
-player allows re-sizing of the video or the slides at your preference.
-It also remembers your last position on the video, so you can stop
-watching and resume any time.
+I sometimes post updates and corrections. Since April-May 2014, all these notes are accompanied by videolectures. The videolectures are streamed from a Mediasite server, requiring the MS Silverlight plug-in. The player allows re-sizing of the video or the slides at your preference. It also remembers your last position on the video, so you can stop watching and resume at any time.
 
 \
 \
