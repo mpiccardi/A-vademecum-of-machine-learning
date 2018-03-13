@@ -1,4 +1,4 @@
-## **A vademecum of machine learning (with emphasis on sequential models)** ##
+### **A vademecum of machine learning (with emphasis on sequential models)** ###
 
 * * * * *
 
