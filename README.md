@@ -16,9 +16,8 @@ I sometimes post updates and corrections. Since April-May 2014, all these notes 
 [Introductory notes](SPR_00_Intro_v4.pdf)\
 Introduction to the short course.
 
-[Review of probability and statistics](SPR_01_ProbabilityReview_v4.pdf)\
-Discrete and continuous random variables; joint, conditional, marginal probabilities, Bayes' theorem; expectations; the Gaussian distribution; Gaussian mixture models. [MATLAB examples](SPR_01_MATLAB.zip). [Video (Intro + Review. 2h:38', 16/04/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/50d703fd3e1d4777b2ebaf8cd05319701d). 
-Note: in this lecture, the view angle from the side is not optimal. In all the other videos, the view is frontal  and the whiteboard can be seen clearly.
+[Review of probability and statistics](SPR_01_ProbabilityReview_v4.pdf) |  [video (Intro + Review. 2h:38', 16/04/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/50d703fd3e1d4777b2ebaf8cd05319701d)\
+Discrete and continuous random variables; joint, conditional, marginal probabilities, Bayes' theorem; expectations; the Gaussian distribution; Gaussian mixture models. [MATLAB examples](SPR_01_MATLAB.zip). Note: in this lecture, the view angle from the side is not optimal. In all the other videos, the view is frontal  and the whiteboard can be seen clearly.
 
 [Density estimation](SPR_03_DensityEstimation_v4.pdf) | [video (2h:05', 23/04/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/5680d5ab5a364976bd64f379dd9a1dc11d)\
 Density estimation. Maximum likelihood; EM; maximum a posteriori; Gaussian, GMM; nonparametric estimators: KDE. Some [exercises](Exercises.pdf) to solve.
