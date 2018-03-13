@@ -38,7 +38,7 @@ Sequential data. The hidden Markov model. A [MATLAB example](SPR_05_MATLAB.zip).
 Exponential family of distributions. Undirected graphical models. The linear-chain conditional random field and the hidden conditional random field. [MATLAB examples](SPR_07_MATLAB.zip).
 
 [The support vector machine (SVM) and structural SVM](SPR_08_SVM_v3.pdf) | [video (2h:19', 11/06/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/0ae0150e722e40abbcddaa7c34337d8a1d)
-The support vector machine (SVM). Multi-class SVM as a single machine. Structural SVM and latent structural 
+The support vector machine (SVM). Multi-class SVM as a single machine. Structural SVM and latent structural SVM.
 
 [Kalman and particle filters](SPR_06_KalmanAndParticleFilters_v5.pdf) | [video (2h:23', 04/06/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/2e4d7ac8b6c5430e86c79d1aa692aabd1d)\
-Kalman and particle filters.
+Recursive Bayesian estimation. Kalman and particle filters.
