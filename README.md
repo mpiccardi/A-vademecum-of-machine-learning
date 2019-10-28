@@ -31,17 +31,17 @@ Dimensionality reduction: principal component analysis (PCA), probabilistic PCA 
 [Classification](SPR_02_Classification_v4.pdf) | [video (1h:57', 07/05/2014)](https://youtu.be/c4Bv24WwQwQ)\
 Probabilistic classifiers. Measures of a test's accuracy. Classification by Bayes' theorem. Learning of probabilistic classifiers. [MATLAB examples](SPR_02_MATLAB.zip).
 
-[Learning or inference?](SPR_03A_Inference_and_learning_v3.pdf) | [video (31', 07/05/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/61070c512b984fb49b5a27babb4ea6251d)\
+[Learning or inference?](SPR_03A_Inference_and_learning_v3.pdf) | [video (31', 07/05/2014)](https://youtu.be/6WCG-3JesXs)\
  This is not a real lecture: just an exercise to recognise at a glance problems commonly labelled as "inference" and "learning".
  
-[The hidden Markov model](SPR_05_HiddenMarkovModel_v5.pdf) | [video (2h:31', 14/05/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/58cb976b900343ef839b626df5e3459d1d)\
+[The hidden Markov model](SPR_05_HiddenMarkovModel_v5.pdf) | [video (2h:31', 14/05/2014)](https://youtu.be/ZeGSK6LZRU0)\
 Sequential data. The hidden Markov model. A [MATLAB example](SPR_05_MATLAB.zip). 
 
-[Conditional random fields](SPR_07_ConditionalRandomFields_v4.pdf) | [video (2h:06', 21/05/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/5bbe235938fa42cc8654d4c5509c41a81d)\
+[Conditional random fields](SPR_07_ConditionalRandomFields_v4.pdf) | [video (2h:06', 21/05/2014)](https://youtu.be/rscCII55GC0)\
 Exponential family of distributions. Undirected graphical models. The linear-chain conditional random field and the hidden conditional random field. [MATLAB examples](SPR_07_MATLAB.zip).
 
-[The support vector machine (SVM) and structural SVM](SPR_08_SVM_v3.pdf) | [video (2h:19', 11/06/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/0ae0150e722e40abbcddaa7c34337d8a1d)
+[The support vector machine (SVM) and structural SVM](SPR_08_SVM_v3.pdf) | [video (2h:19', 11/06/2014)](https://youtu.be/1_dpjdF5zcY)
 The support vector machine (SVM). Multi-class SVM as a single machine. Structural SVM and latent structural SVM.
 
-[Kalman and particle filters](SPR_06_KalmanAndParticleFilters_v5.pdf) | [video (2h:23', 04/06/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/2e4d7ac8b6c5430e86c79d1aa692aabd1d)\
+[Kalman and particle filters](SPR_06_KalmanAndParticleFilters_v5.pdf) | [video (2h:23', 04/06/2014)](https://youtu.be/zqK_8IbaeSc)\
 Recursive Bayesian estimation. Kalman and particle filters.
