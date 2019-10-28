@@ -22,7 +22,7 @@ Introduction to the short course.
 [Review of probability and statistics](SPR_01_ProbabilityReview_v4.pdf) |  [video (Intro + Review. 2h:38', 16/04/2014)](https://youtu.be/J2sqQR2RjDE)\
 Discrete and continuous random variables; joint, conditional, marginal probabilities, Bayes' theorem; expectations; the Gaussian distribution; Gaussian mixture models. [MATLAB examples](SPR_01_MATLAB.zip). Note: in this lecture, the view angle from the side is not optimal. In all the other videos, the view is frontal  and the whiteboard can be seen clearly.
 
-[Density estimation](SPR_03_DensityEstimation_v4.pdf) | [video (2h:05', 23/04/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/5680d5ab5a364976bd64f379dd9a1dc11d)\
+[Density estimation](SPR_03_DensityEstimation_v4.pdf) | [video (2h:05', 23/04/2014)](https://youtu.be/ODqCemqeOao)\
 Density estimation. Maximum likelihood; EM; maximum a posteriori; Gaussian, GMM; nonparametric estimators: KDE. Some [exercises](Exercises.pdf) to solve.
 
 [Dimensionality reduction](SPR_04_DimensionalityReduction_v3.pdf) | [video (2h:30', 30/04/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/13468514e7ac4cc6af6d4cf7843377c61d)\
