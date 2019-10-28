@@ -28,7 +28,7 @@ Density estimation. Maximum likelihood; EM; maximum a posteriori; Gaussian, GMM;
 [Dimensionality reduction](SPR_04_DimensionalityReduction_v3.pdf) | [video (2h:30', 30/04/2014)](https://youtu.be/9i1cxSig0S0)\
 Dimensionality reduction: principal component analysis (PCA), probabilistic PCA (PPCA), factor analysis (FA), mixtures, linear discriminant analysis (LDA). Mention to non-linear techniques. Preceded by a brief introduction to [linear regression](SPR_04a_LinearRegression_v2.pdf). [MATLAB examples](SPR_04_MATLAB.zip).
 
-[Classification](SPR_02_Classification_v4.pdf) | [video (1h:57', 07/05/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/fee244746f4f48a59ad3ba69478cadb21d)\
+[Classification](SPR_02_Classification_v4.pdf) | [video (1h:57', 07/05/2014)](https://youtu.be/c4Bv24WwQwQ)\
 Probabilistic classifiers. Measures of a test's accuracy. Classification by Bayes' theorem. Learning of probabilistic classifiers. [MATLAB examples](SPR_02_MATLAB.zip).
 
 [Learning or inference?](SPR_03A_Inference_and_learning_v3.pdf) | [video (31', 07/05/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/61070c512b984fb49b5a27babb4ea6251d)\
