@@ -25,7 +25,7 @@ Discrete and continuous random variables; joint, conditional, marginal probabili
 [Density estimation](SPR_03_DensityEstimation_v4.pdf) | [video (2h:05', 23/04/2014)](https://youtu.be/ODqCemqeOao)\
 Density estimation. Maximum likelihood; EM; maximum a posteriori; Gaussian, GMM; nonparametric estimators: KDE. Some [exercises](Exercises.pdf) to solve.
 
-[Dimensionality reduction](SPR_04_DimensionalityReduction_v3.pdf) | [video (2h:30', 30/04/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/13468514e7ac4cc6af6d4cf7843377c61d)\
+[Dimensionality reduction](SPR_04_DimensionalityReduction_v3.pdf) | [video (2h:30', 30/04/2014)](https://youtu.be/9i1cxSig0S0)\
 Dimensionality reduction: principal component analysis (PCA), probabilistic PCA (PPCA), factor analysis (FA), mixtures, linear discriminant analysis (LDA). Mention to non-linear techniques. Preceded by a brief introduction to [linear regression](SPR_04a_LinearRegression_v2.pdf). [MATLAB examples](SPR_04_MATLAB.zip).
 
 [Classification](SPR_02_Classification_v4.pdf) | [video (1h:57', 07/05/2014)](https://mediasite.feit.uts.edu.au/Mediasite/Play/fee244746f4f48a59ad3ba69478cadb21d)\
